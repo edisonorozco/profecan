@@ -29,6 +29,11 @@
   align-items: center;
 }
 
+.navbar-logo i {
+  margin-left: 6px;
+  font-size: 40px;
+}
+
 .fa-typo3 {
   margin-left: 0.5rem;
   font-size: 1.8rem;
@@ -128,6 +133,7 @@
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;
+    color: #fff;
   }
 
   .fa-times {
