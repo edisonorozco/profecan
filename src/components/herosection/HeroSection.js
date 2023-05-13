@@ -14,14 +14,15 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
+          label='/about'
         >
           Nosotros
         </Button>
         <Button
           className='btns'
-          buttonStyle='btn--primary'
+          buttonStyle='btn--outline'
           buttonSize='btn--large'
-          onClick={console.log('hey')}
+          label='/adoptions'
         >
           Adopciones
         </Button>

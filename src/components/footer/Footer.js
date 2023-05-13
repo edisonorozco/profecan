@@ -15,11 +15,11 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Acerda de</h2>
-            <Link to='/sign-up'>Nosotros</Link>
+            <Link to='/about'>Nosotros</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Contactanos</h2>
-            <Link to='/'>Contacto</Link>
+            <Link to='/contact'>Contacto</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
