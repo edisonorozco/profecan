@@ -1,0 +1,24 @@
+{
+    "pet": [
+        {
+            "image": "../images/img-1.jpg",
+            "description": "perrito_1"
+        },
+        {
+            "image": "../images/img-2.jpg",
+            "description": "perrito_1"
+        },
+        {
+            "image": "../images/img-3.jpg",
+            "description": "perrito_1"
+        },
+        {
+            "image": "../images/img-4.jpg",
+            "description": "perrito_1"
+        },
+        {
+            "image": "../images/img-5.jpg",
+            "description": "perrito_1"
+        }
+    ]
+}

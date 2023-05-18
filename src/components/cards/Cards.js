@@ -25,7 +25,7 @@ function Cards() {
               src='images/acerca-de.jpg'
               text='Quieres saber mas sobre nuestra fundación'
               label='Historia'
-              path='/sign-up'
+              path='/about'
             />
           </ul>
         </div>

@@ -1,0 +1,145 @@
+.container__adoptions {
+  width: 100%;
+  height: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image_size {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+.column__description {
+  width: 800px;
+}
+
+h1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.react_pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.react_pagination li {
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.react_pagination a {
+  padding: 5px 10px;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #333;
+  cursor: pointer;
+}
+
+.react_pagination a:hover {
+  background-color: #eee;
+}
+
+.table-style {
+  width: 80%;
+  border-collapse: collapse;
+}
+
+.table-style thead {
+  background-color: #f2f2f2;
+}
+
+.table-style th,
+.table-style td {
+  padding: 10px;
+  text-align: center;
+}
+
+.table-style tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table-style tbody tr:nth-child(odd) {
+  background-color: #e8e8e8;
+}
+
+.table-style th,
+.table-style td {
+  border: 1px solid #ccc;
+}
+
+.button-contact {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button-contact:hover {
+  background-color: #45a049;
+}
+
+.button-contact:active {
+  background-color: #3e8e41;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  max-width: 70%;
+  max-height: 70%;
+  overflow: auto;
+}
+
+.modal-content > i {
+  color: #fff;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.modal-content img {
+  max-width: 100%;
+  height: 100%;
+  object-fit: contain;
+  width: auto;
+  height: auto;
+}
+
+/*.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+  background-color: #888888;
+  border-radius: 4px;
+}
+
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background-color: #555555;
+}
+*/

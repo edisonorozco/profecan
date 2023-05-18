@@ -3,8 +3,8 @@ import Navbar from './components/navbar/Navbar';
 import './App.css'
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import About from './components/pages/About';
-import Adoptions from './components/pages/Adoptions';
+import About from './components/pages/about/About';
+import Adoptions from './components/pages/adoptions/Adoptions';
 import Contact from './components/pages/Contact';
 
 const App = () => {
