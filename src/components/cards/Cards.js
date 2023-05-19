@@ -5,26 +5,26 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Que te gustaria saber!</h1>
+      <h1>¿Qué te gustaría hacer?</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/voluntariado.jpg'
-              text='Participa en nuestra fundación'
+              src='images/VOLUNTARIADO2.jpeg'
+              text='Sé voluntario en PROFECAN'
               label='Voluntariado'
               path='/services'
             />
             <CardItem
-              src='images/donaciones.jpg'
-              text='Dona alimanetos, mediciona para los perritos'
+              src='images/DONACIONES2.jpeg'
+              text='Haz tus donaciones'
               label='Donaciones'
               path='/products'
             />
             <CardItem
-              src='images/acerca-de.jpg'
-              text='Quieres saber mas sobre nuestra fundación'
-              label='Historia'
+              src='images/SERVICIOS2.jpeg'
+              text='Conoce nuestros servicios'
+              label='Servicios'
               path='/sign-up'
             />
           </ul>
