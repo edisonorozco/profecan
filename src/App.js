@@ -5,7 +5,7 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import About from './components/pages/about/About';
 import Adoptions from './components/pages/adoptions/Adoptions';
-import Contact from './components/pages/Contact';
+import Contact from './components/pages/contact/Contact';
 
 const App = () => {
   return (

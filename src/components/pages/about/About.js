@@ -19,23 +19,22 @@ export default function About() {
                 <div className='about'>
                     <div className='about__title'>
                         <p>
-                            La corporación Profecan es una entidad sin ánimo de lucro que se constituyo en 2023
+                            La corporación PROFECAN es una entidad sin ánimo de lucro.
                         </p>
                         <i class='bx bxl-baidu'></i>
                     </div>
 
                     <div className='about__description'>
                         <p>
-                            En la base del grupo de voluntarios (anteriormente ángel guardián canino y felino) del albergue municipal de La Ceja. La corporación se crea con la necesidad de dotar de personería jurídica al grupo de voluntarios y con ello lograr alianzas estratégicas con otras entidades que trabajen por el bienestar animal.
-
-                            El voluntariado nació en el año 2010 por iniciativa de un grupo de jóvenes estudiantes que cada domingo asistían a asear los espacios de los animales, a brindarles un paseo y a estar pendiente de la alimentación; este grupo de voluntarios fue asumiendo además tareas de veeduría que fueron importantes para los desenlaces que se tienen hoy con el centro de bienestar animal.
+                            Nuestra misiónes promover el bienestar animal, la tenencia responsable y la proteeción del medio ambiente a través de asesoría, divulgación, rescate de fauna, estelirización masiva, promoción de normatividad y defensa de los derechos animales, en colaboración con diversas organizaciones y sectores.
                         </p>
                     </div>
                 </div>
 
                 <div className='container__images'>
                     <div className='text__img1'>
-                        <p>El voluntariado nació en el año 2010 por iniciativa de un grupo de jóvenes estudiantes que cada domingo asistían</p>
+                        <p> <h3> SERVICIOS </h3> <br />  • Hogar de paso o refugio para animales en situación de vulnerabilidad.
+                            <br />  • Jornadas de vacunación y esterilización masivas. </p>
                     </div>
                     <div className='container second'>
 
@@ -44,7 +43,7 @@ export default function About() {
 
                 <div className='container__images'>
                     <div className='text__img2'>
-                        <p>El voluntariado nació en el año 2010 por iniciativa de un grupo de jóvenes estudiantes que cada domingo asistían</p>
+                        <p><br /> • Jornadas de adopción de mascotas.  <br /> • Educación y sensibilización sobre tenencia responsable de mascotas.  <br /> • Atención y rescate de fauna silvestre.</p>
                     </div>
                     <div className='img_3'>
 

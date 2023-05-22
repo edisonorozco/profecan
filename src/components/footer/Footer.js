@@ -8,13 +8,13 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Profecan una corporación sin animo de lucro
+          Somos una corporación sin ánimo de lucro
         </p>
       </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Acerda de</h2>
+            <h2>Conócenos</h2>
             <Link to='/about'>Nosotros</Link>
           </div>
           <div class='footer-link-items'>
@@ -24,11 +24,8 @@ function Footer() {
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Redes sociales</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <h2>Nuestras redes sociales</h2>
+            <Link to='https://www.instagram.com/profe_can/?igshid=MzRlODBiNWFlZA%3D%3D' target='blank_'>Instagram</Link>
           </div>
         </div>
       </div>

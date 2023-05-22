@@ -15,24 +15,24 @@ export default function Adoptions() {
     const json = {
         "pet": [
             {
-                "image": "../images/img-1.jpg",
-                "description": "perrito_2"
+                "image": "../images/PERRITO1.jpeg",
+                "description": "Este tierno cachorrito es una dulce mezcla de tres meses de color marrón, con un corazón tan cálido como su suave pelaje."
             },
             {
-                "image": "../images/img-2.jpg",
-                "description": "perrito_3"
+                "image": "../images/PERRITO2.jpeg",
+                "description": "Conoce a nuestro encantador cachorro negro de un año de edad, con una personalidad juguetona y unos ojos conmovedores que te robarán el corazón."
             },
             {
-                "image": "../images/img-3.jpg",
-                "description": "perrito_4"
+                "image": "../images/PERRITO3.jpeg",
+                "description": "Tenemos al cachorrito marrón más lindo de tres meses, con orejas caídas y una cola moviéndose, esperando ser tu nuevo mejor amigo."
             },
             {
-                "image": "../images/img-4.jpg",
-                "description": "perrito_5"
+                "image": "../images/PERRITO4.jpeg",
+                "description": "Estos hermosos cachorros tienen ambos más de dos años y están llenos de amor y afecto. Su naturaleza juguetona y dulce temperamento los convierten en una excelente opción para un hogar amoroso para siempre."
             },
             {
-                "image": "../images/img-5.jpg",
-                "description": "perrito_6"
+                "image": "../images/PERRITO5.jpeg",
+                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro cachorro tipo lobo de un año. Con su impresionante apariencia y su suave comportamiento, seguramente te hará cantar de alegría."
             }
         ]
     };
