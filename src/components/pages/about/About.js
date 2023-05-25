@@ -19,7 +19,7 @@ export default function About() {
                 <div className='about'>
                     <div className='about__title'>
                         <p>
-                            La corporación PROFECAN es una entidad sin ánimo de lucro.
+                            La corporación PROFECAN es una entidad sin ánimo de lucro. Estamos ubicados en el km 4 vía Sonsón - Aguadas.
                         </p>
                         <i class='bx bxl-baidu'></i>
                     </div>

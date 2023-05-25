@@ -25,7 +25,7 @@ export default function Contact() {
 
         <div class="formulario">
           <h1>Formulario de contacto</h1>
-          <h3>Escríbenos y en breve los pondremos en contacto contigo</h3>
+          <h3>Escríbenos y en breve nos pondremos en contacto contigo</h3>
 
           <form onSubmit={handleSubmit}>
 

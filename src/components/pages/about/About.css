@@ -27,7 +27,7 @@
 }
 
 .second {
-  background-image: url(../../../../public/images/FONDO1.jpg);
+  background-image: url(../../../../public/images/PERRITO5.jpeg);
   height: 50vh;
   width: 700px;
   margin-left: 350px;
@@ -48,7 +48,7 @@
 }
 
 .about__title p {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .about__title,
@@ -81,7 +81,7 @@
 }
 
 .img_3 {
-  background-image: url(../../../../public/images/FONDO2.jpg);
+  background-image: url(../../../../public/images/FONDO1.jpeg);
   background-size: cover;
   height: 50vh;
   width: 700px;

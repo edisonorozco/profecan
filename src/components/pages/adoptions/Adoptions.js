@@ -16,7 +16,7 @@ export default function Adoptions() {
         "pet": [
             {
                 "image": "../images/PERRITO1.jpeg",
-                "description": "Este tierno cachorrito es una dulce mezcla de tres meses de color marrón, con un corazón tan cálido como su suave pelaje."
+                "description": "Este tierno cachorrito de tres meses es una dulce mezcla de color marrón, con un corazón tan cálido que te llenara de amor la vida."
             },
             {
                 "image": "../images/PERRITO2.jpeg",
@@ -24,15 +24,31 @@ export default function Adoptions() {
             },
             {
                 "image": "../images/PERRITO3.jpeg",
-                "description": "Tenemos al cachorrito marrón más lindo de tres meses, con orejas caídas y una cola moviéndose, esperando ser tu nuevo mejor amigo."
+                "description": "Haz parte de tu familia este tierno cachorrito marrón de tres meses, el cual esta esperando el calor de un hogar."
             },
             {
                 "image": "../images/PERRITO4.jpeg",
-                "description": "Estos hermosos cachorros tienen ambos más de dos años y están llenos de amor y afecto. Su naturaleza juguetona y dulce temperamento los convierten en una excelente opción para un hogar amoroso para siempre."
+                "description": "Estos hermosos perritos de más de dos años de edad, están llenos de amor y afecto. Son de naturaleza juguetona y dulce temperamento los cuales llenarán de amor tu hogar."
             },
             {
                 "image": "../images/PERRITO5.jpeg",
-                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro cachorro tipo lobo de un año. Con su impresionante apariencia y su suave comportamiento, seguramente te hará cantar de alegría."
+                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro hermoso criollito. Con su suave comportamiento, seguramente te hará vivir aventuras inolvidables."
+            },
+            {
+                "image": "../images/PERRITO5.jpeg",
+                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro hermoso criollito. Con su suave comportamiento, seguramente te hará vivir aventuras inolvidables."
+            },
+            {
+                "image": "../images/PERRITO5.jpeg",
+                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro hermoso criollito. Con su suave comportamiento, seguramente te hará vivir aventuras inolvidables."
+            },
+            {
+                "image": "../images/PERRITO5.jpeg",
+                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro hermoso criollito. Con su suave comportamiento, seguramente te hará vivir aventuras inolvidables."
+            },
+            {
+                "image": "../images/PERRITO5.jpeg",
+                "description": "Si estás buscando un compañero leal y fiel, no busques más que nuestro hermoso criollito. Con su suave comportamiento, seguramente te hará vivir aventuras inolvidables."
             }
         ]
     };

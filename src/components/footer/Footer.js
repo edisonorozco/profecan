@@ -49,7 +49,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='/'
+              to='https://www.instagram.com/profe_can/?igshid=MzRlODBiNWFlZA%3D%3D'
               target='_blank'
               aria-label='Instagram'
             >
