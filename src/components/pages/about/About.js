@@ -26,7 +26,7 @@ export default function About() {
 
                     <div className='about__description'>
                         <p>
-                            Nuestra misiónes promover el bienestar animal, la tenencia responsable y la proteeción del medio ambiente a través de asesoría, divulgación, rescate de fauna, estelirización masiva, promoción de normatividad y defensa de los derechos animales, en colaboración con diversas organizaciones y sectores.
+                            Nuestra misión es promover el bienestar animal, la tenencia responsable y la proteeción del medio ambiente a través de asesoría, divulgación, rescate de fauna, estelirización masiva, promoción de normatividad y defensa de los derechos animales, en colaboración con diversas organizaciones y sectores.
                         </p>
                     </div>
                 </div>
