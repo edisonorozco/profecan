@@ -17,16 +17,20 @@ function Footer() {
             <h2>Conócenos</h2>
             <Link to='/about'>Nosotros</Link>
           </div>
-          <div class='footer-link-items'>
-            <h2>Contactanos</h2>
-            <Link to='/contact'>Contacto</Link>
-          </div>
-        </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Nuestras redes sociales</h2>
+            <h2>Redes sociales</h2>
             <Link to='https://www.instagram.com/profe_can/?igshid=MzRlODBiNWFlZA%3D%3D' target='blank_'>Instagram</Link>
           </div>
+          <div class='footer-link-items'>
+            <h2>Contactanos</h2>
+            <Link to='/contact'>Contacto</Link> 
+            <p>
+                3188087110
+                corporacionprofecan@gmail.com
+            </p>
+          </div>
+        </div>
         </div>
       </div>
       <section class='social-media'>

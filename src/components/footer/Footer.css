@@ -1,5 +1,5 @@
 .footer-container {
-  background-color: #242424;
+  background-color: #000000;
   padding: 4rem 0 2rem 0;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@
 
   margin-bottom: 24px;
   padding: 24px;
-  color: #fff;
+  color: #ffffff;
 }
 
 .footer-subscription > p {
@@ -71,7 +71,7 @@
 }
 
 .footer-link-items > h2 {
-  color: #fff;
+  color: #fff9f9;
 }
 
 .footer-link-items a {
