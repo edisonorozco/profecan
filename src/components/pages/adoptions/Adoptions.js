@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './Adoptions.css'
 import ReactPaginate from 'react-paginate';
 import { Link } from 'react-router-dom';
+import Footer from '../../footer/Footer';
 
 export default function Adoptions() {
 
@@ -144,3 +145,4 @@ export default function Adoptions() {
         </>
     );
 };
+

@@ -59,6 +59,7 @@
   flex-direction: column;
   color: rgb(61, 60, 60);
   font-family: "Courier New", Courier, monospace;
+  text-align: justify;
 }
 
 .about__title > i {
