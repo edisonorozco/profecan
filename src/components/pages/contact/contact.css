@@ -107,3 +107,18 @@ label {
   outline: 0;
   border: 1px solid #97d848;
 }
+
+@media screen and (max-width: 576px) {
+  .contact_form {
+    width: 300px;
+  }
+
+  input,
+  textarea {
+    width: 250px;
+  }
+
+  .btn__enviar > button {
+    width: 250px;
+  }
+}

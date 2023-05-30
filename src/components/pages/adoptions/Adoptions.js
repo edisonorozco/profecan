@@ -121,6 +121,46 @@ export default function Adoptions() {
                     </tbody>
                 </table>
             </div>
+
+            {/** =============================== SMALL DEVICES ============================================================ */}
+
+
+            <div className='container__adoptions__small__devices'>
+                <h1>Adopciones</h1>
+                <table className='table-style'>
+                    <thead>
+                        <tr>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {data.map((item, index) => (
+                            <React.Fragment key={index}>
+                                <tr>
+                                    <td>
+                                        <img className='image_size' src={item.image} alt={item.description} onClick={() => openModal(item.image)} />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td className='column__description'>{item.description}</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <Link to='/contact'>
+                                            <button className='button-contact' onClick={() => {
+
+                                            }}>
+                                                Contacto
+                                            </button>
+                                        </Link>
+                                    </td>
+                                </tr>
+                            </React.Fragment>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
+
             <ReactPaginate className='react_pagination'
                 previousLabel={'Anterior'}
                 nextLabel={'Siguiente'}

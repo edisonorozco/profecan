@@ -33,8 +33,10 @@ export default function About() {
 
                 <div className='container__images'>
                     <div className='text__img1'>
-                        <p> <h3> SERVICIOS </h3> <br />  • Hogar de paso o refugio para animales en situación de vulnerabilidad.
-                            <br />  • Jornadas de vacunación y esterilización masivas. </p>
+                        <p> <h3> SERVICIOS </h3>
+                            <br />  • Hogar de paso o refugio para animales en situación de vulnerabilidad.
+                            <br />  • Jornadas de vacunación y esterilización masivas.
+                        </p>
                     </div>
                     <div className='container second'>
 
